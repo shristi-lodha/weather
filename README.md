@@ -26,10 +26,4 @@ Preview the production build:
 
 `npm run preview`
 
-## Contributing
 
-If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on GitHub.
-
-## License
-
-This project is licensed under the MIT License.
